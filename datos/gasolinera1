@@ -1,0 +1,13 @@
+tipo:diesel:10000:495.0
+tipo:extra:16000:700.0
+tipo:corriente:15000:1000.0
+tipo:ecopetrol:9000:900.0
+surtidor:Isabella:diesel:0.0:extra:0.0:corriente:0.0:ecopetrol:0.0
+surtidor:Andres:diesel:5.0:extra:0.0:corriente:0.0:ecopetrol:0.0
+surtidor:Isabella:diesel:0.0:extra:0.0:corriente:0.0:ecopetrol:0.0
+surtidor:Jose:diesel:0.0:extra:0.0:corriente:0.0:ecopetrol:0.0
+empleado:Andres:50000
+empleado:Jose:0
+empleado:Isabella:0
+empleado:Juan:0
+empleado:Maria:0
